@@ -12750,8 +12750,8 @@ In this library the device names are the same as the pin names of the symbols, t
 <part name="R3" library="rcl" deviceset="R-US_" device="R0805" value="1M"/>
 <part name="R4" library="rcl" deviceset="R-US_" device="R0805" value="100k"/>
 <part name="R5" library="rcl" deviceset="R-US_" device="R0805" value="220k"/>
-<part name="C1" library="rcl" deviceset="CPOL-US" device="B" value="10u"/>
-<part name="C2" library="rcl" deviceset="CPOL-US" device="B" value="10uf"/>
+<part name="C1" library="rcl" deviceset="CPOL-US" device="C" value="10u"/>
+<part name="C2" library="rcl" deviceset="CPOL-US" device="C" value="10uf"/>
 <part name="C3" library="rcl" deviceset="C-US" device="C0805" value="100n"/>
 <part name="IC1" library="linear" deviceset="TL071" device="P" value="TL071P"/>
 <part name="SUPPLY1" library="supply2" deviceset="GND" device=""/>
